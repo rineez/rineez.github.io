@@ -54,4 +54,4 @@ Govt VHSS Vattiyoorkavu
 ## Awards and Honors
 
 **Certified in Quantum Computing and Machine Learning** from Indian Institute of Technology, New Delhi, India
-  : 2018
+  : 2024
