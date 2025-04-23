@@ -1,6 +1,5 @@
 # Rineez Ahmed N
 <picture>
-		  <source media="(min-width: 720px)" srcset="header.svg">
 		  <img src="template1_styles.svg" width="800" height="400" alt="Click to see the source">
 		</picture>
 <span class="iconify" data-icon="charm:person"></span> [rineez.github.io](https://rineez.github.io/)
