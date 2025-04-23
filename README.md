@@ -1,5 +1,5 @@
 # Rineez Ahmed N
-
+<img src="template1_styles.svg" width="1" height="1" alt="css-loader">
 <span class="iconify" data-icon="charm:person"></span> [rineez.github.io](https://rineez.github.io/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/rineez-livares](https://github.com/rineez-livares)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+91) 8590831824](https://wa.me/918590831824)
