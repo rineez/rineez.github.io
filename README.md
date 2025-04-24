@@ -7,7 +7,7 @@
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/rineez-livares](https://github.com/rineez-livares)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+91) 8590831824](https://wa.me/918590831824)
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Thiruvananthapuram
+<span class="iconify" data-icon="ic:outline-location-on"></span> [Thiruvananthapuram](https://maps.app.goo.gl/9faN5ZzrUwKMMC7S8)
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/rineez](https://linkedin.com/in/rineez/)
   : <span class="iconify" data-icon="tabler:mail"></span> [rineez@gmail.com](mailto:rineez@gmail.com)
 
@@ -40,10 +40,10 @@
 - Implemented several new features in the product to accomodate changing demands from clients. The Enterprise class mobility platform helps to integrate various ERP backends to mobile applications in a very flexible and cost-effective way.
 
 ## Education
-**Certified in Quantum Computing and Machine Learning**
+**Certification in Quantum Computing and Machine Learning**
   : **Mar 2024 - Oct 2024**
 
- CEP - Indian Institute of Technology Delhi
+Indian Institute of Technology Delhi
   : New Delhi, India
 ---
 **Bachelor of Technology (BTech), Computer Science**
@@ -61,4 +61,4 @@ University of Kerala
 
 **Languages:** English (fluent), Hindi (proficient), Malayalam (native)
 
-
+<br><br>
