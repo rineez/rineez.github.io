@@ -45,6 +45,7 @@
 
 Indian Institute of Technology Delhi
   : New Delhi, India
+  
 ---
 **Bachelor of Technology (BTech), Computer Science**
   : **Jul 2004 - Aug 2008**
