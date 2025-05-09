@@ -4,10 +4,11 @@
 
   <span class="iconify" data-icon="ic:outline-location-on"></span> [Thiruvananthapuram](https://maps.app.goo.gl/9faN5ZzrUwKMMC7S8)
   : <span class="iconify" data-icon="tabler:mail"></span> [rineez@gmail.com](mailto:rineez@gmail.com)
-  : <span class="iconify" data-icon="tabler:phone"></span> [+91-8590831824](https://wa.me/918590831824)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+91 - 8590831824](https://wa.me/918590831824)
 
-  <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/rineez](https://github.com/rineez)
-  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/rineez](https://linkedin.com/in/rineez/)
+  <span class="iconify" data-icon="tabler:brand-github"></span> [GitHub: rineez](https://github.com/rineez)
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [Linkedin: rineez](https://linkedin.com/in/rineez/)
+  : <span class="iconify" data-icon="tabler:brand-hackerrank"></span> [HackerRank: rineez1](https://www.hackerrank.com/profile/rineez1)
 
 
 ## Professional Summary
@@ -23,9 +24,10 @@
 |-|-|
 | **Software Design Principles & Best Practices :** | OOD, SOLID, KISS, DRY, YAGNI, Code Review, CI/CD, Versioning, Unit Tests |
 | **Programming Languages:** | <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="logos:php" data-inline="false"></span>PHP, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="logos:c-sharp"></span> C#, <span class="iconify" data-icon="logos:python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML / <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS |
-| **Development Tools & Frameworks:** | Docker, Spring Boot, Laravel, React JS, Angular, Git, Jira, Jenkins, Swagger |
+| **Development Tools & Frameworks:** | Docker, Spring Boot, Laravel, Kafka, RabbitMQ, MQTT, React JS, Angular, Git, Jira, Jenkins |
+| **Database** | MySQL, PostgreSQL, MSSQL, Redis, MongoDB |
 | **Cyber Security:** | Threats, Vulnerability Management, Defense-in-Depth, Zero Trust |
-| **Quantum Computing:** | Linear algebra, Qiskit, Quantum Algorithms, Quantum Hardwares |
+| **Quantum Computing:** | Linear algebra, Qiskit, Quantum Algorithms, QAOA |
 | **Machine Learning:** | Tensorflow, Keras, Open-CV, Mediapipe |
 | **Languages:** | English (fluent), Malayalam (native), Hindi (proficient), Japanese(Learning)|
 
